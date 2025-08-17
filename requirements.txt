@@ -1,0 +1,86 @@
+# Core LangGraph and LangChain dependencies
+langgraph>=0.1.0
+langchain>=0.1.0
+langchain-google-genai>=0.0.10
+langchain-community>=0.1.0
+
+# LLM and AI dependencies
+google-generativeai>=0.3.2
+
+# Web UI
+streamlit>=1.28.0
+
+# Data processing and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Database and ORM
+pymongo>=4.6.0
+
+# Web framework and API
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# HTTP client and requests
+httpx>=0.25.0
+requests>=2.31.0
+
+# Configuration and environment
+python-dotenv>=1.0.0
+pydantic-settings>=2.1.0
+
+# Logging and monitoring
+structlog>=23.2.0
+prometheus-client>=0.19.0
+
+# Date and time handling
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+pytest-mock>=3.12.0
+
+# Code quality and formatting
+black>=23.11.0
+isort>=5.12.0
+flake8>=6.1.0
+mypy>=1.7.0
+
+# Documentation
+mkdocs>=1.5.0
+mkdocs-material>=9.4.0
+
+# Security
+cryptography>=41.0.0
+passlib>=1.7.4
+
+# External integrations
+google-api-python-client>=2.108.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
+
+# Calendar and scheduling
+icalendar>=5.0.0
+
+# File handling
+python-multipart>=0.0.6
+
+# Async support
+asyncio-mqtt>=0.16.0
+aiofiles>=23.2.0
+
+# Development tools
+jupyter>=1.0.0
+ipython>=8.17.0
+
+# Optional: For advanced features
+# tensorflow>=2.14.0  # For ML models
+# torch>=2.1.0       # For PyTorch models
+# transformers>=4.35.0  # For Hugging Face models
